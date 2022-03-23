@@ -1,5 +1,5 @@
 # Movies List
-  - It show the list of movies from the tmdb Api key
+  - It show the list of movies from the tmdb Api 
 
 <hr>
 <hr>
