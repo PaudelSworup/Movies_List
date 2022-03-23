@@ -4,7 +4,7 @@
 <hr>
 <hr>
 
-# some UI fo the projects
+# some UI of the projects
 <hr>
 <div>
   <div style="display:flex; margin:5px; justify-content:center; align-items:center">
